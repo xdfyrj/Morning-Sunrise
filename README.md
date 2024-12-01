@@ -1,9 +1,12 @@
 # Morning-Sunrise
 My first cpp game yeah.
 
+This is simple farm game.
+
 I couldn't use C++ written in Object-Oriented Programming.
 
 So, I use C++ written in Procedual Programming.
+
 
 # Game
 ## Farm
