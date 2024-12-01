@@ -1,7 +1,7 @@
 # Morning-Sunrise
 My first cpp game yeah.
 
-This is simple farm game.
+This is the simple farming game.
 
 I couldn't use C++ written in Object-Oriented Programming.
 
