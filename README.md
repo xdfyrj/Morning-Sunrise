@@ -5,7 +5,7 @@ This is the simple farming game.
 
 I couldn't use C++ written in Object-Oriented Programming.
 
-So, I use C++ written in Procedual Programming.
+So, the code is a bit dirty lol.
 
 
 # Game
